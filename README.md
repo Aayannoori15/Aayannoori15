@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aayan Noori</h1>
 <h3 align="center">A passionate AI/ML/Django Developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=FFB86B&center=true&vCenter=true&width=600&lines=Deep+Learning+%7C+Computer+Vision;Django+%7C+APIs+%7C+Deployment;Always+learning+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 
 - 🔭 I’m currently working on [Uniride](https://github.com/Aayannoori15/Uniride)
 
