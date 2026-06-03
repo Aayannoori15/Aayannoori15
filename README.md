@@ -4,19 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=FFB86B&center=true&vCenter=true&width=600&lines=Deep+Learning+%7C+Computer+Vision;Django+%7C+APIs+%7C+Deployment;Always+learning+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on [Uniride](https://github.com/Aayannoori15/Uniride)
-
-- 🌱 I’m currently learning **AI**
+- 🔭 I’m currently working on DeepFake [https://deepfake-3ux1.onrender.com/](https://deepfake-3ux1.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-8eay.onrender.com/#top](https://my-portfolio-8eay.onrender.com/#top)
 
-- 💬 Ask me about **Django , Pytorch , Sklearn**
+- 💬 Ask me about **Django , Pytorch , Sklearn , Agentic AI **
 
 - 📫 How to reach me **aayan.noori15@gmail.com**
 
 - 📄 Know about my experiences [https://my-portfolio-8eay.onrender.com/#experience](https://my-portfolio-8eay.onrender.com/#experience)
 
-- ⚡ Fun fact **I am a Part time Athlete**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
