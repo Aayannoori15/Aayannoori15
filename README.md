@@ -14,8 +14,8 @@
 <br/>
 
 <!-- STATUS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=aayannoori&style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/aayannoori?style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=aayannoori15&style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/aayannoori15?style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=FOLLOWERS)
 
 </div>
 
@@ -70,10 +70,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aayannoori&show_icons=true&theme=github_dark&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff4133&border_radius=10&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github&show=reviews,discussions_started,prs_merged" width="420" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aayannoori15&show_icons=true&theme=github_dark&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff4133&border_radius=10&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github&show=reviews,discussions_started,prs_merged" width="420" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=aayannoori&theme=github-dark-blue&background=0D0D0D&border=00ff4133&ring=00ff41&fire=ff6e27&currStreakLabel=00ff41&sideLabels=7fff7f&dates=888888&border_radius=10" width="420" />
+      <img src="https://streak-stats.demolab.com?user=aayannoori15&theme=github-dark-blue&background=0D0D0D&border=00ff4133&ring=00ff41&fire=ff6e27&currStreakLabel=00ff41&sideLabels=7fff7f&dates=888888&border_radius=10" width="420" />
     </td>
   </tr>
 </table>
@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayannoori&bg_color=0d0d0d&color=00ff41&line=00cc33&point=ffffff&area=true&area_color=00ff4120&border_color=00ff4133&hide_border=false&radius=10&theme=react-dark" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayannoori15&bg_color=0d0d0d&color=00ff41&line=00cc33&point=ffffff&area=true&area_color=00ff4120&border_color=00ff4133&hide_border=false&radius=10&theme=react-dark" width="100%" />
 
 </div>
 
@@ -110,7 +110,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayannoori&layout=donut&theme=github_dark&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9&border_color=00ff4133&border_radius=10&langs_count=8&hide=html,css" width="340" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayannoori15&layout=donut&theme=github_dark&bg_color=0d0d0d&title_color=00ff41&text_color=c9d1d9&border_color=00ff4133&border_radius=10&langs_count=8&hide=html,css" width="340" />
 
 </div>
 
@@ -165,7 +165,7 @@
 <div align="center">
 
 <a href="https://deepfake-3ux1.onrender.com/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayannoori&repo=deepfake-detection&theme=github_dark&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff4133&border_radius=10&description_lines_count=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayannoori15&repo=deepfake-detection&theme=github_dark&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff4133&border_radius=10&description_lines_count=2" />
 </a>
 
 </div>
